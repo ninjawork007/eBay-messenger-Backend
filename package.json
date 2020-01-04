@@ -15,7 +15,7 @@
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
     "module_name": "^1.0.0",
-    "mongoose": "^5.7.0",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "node-ebay-trading-api": "^1.0.5",
     "request": "^2.88.0",
