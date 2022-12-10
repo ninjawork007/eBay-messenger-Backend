@@ -11,7 +11,7 @@
     "debug": "~2.6.9",
     "ebay-node-api": "^2.6.0",
     "ejs": "^2.6.2",
-    "express": "~4.16.0",
+    "express": "~4.17.3",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
     "module_name": "^1.0.0",
